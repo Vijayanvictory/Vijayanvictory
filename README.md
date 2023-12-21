@@ -1,5 +1,5 @@
 -  Hi,there !👋 😊 I'm Vijayan.
--  I like Pyhton! 🐍.
+-  I like Python! 🐍.
 - 🌱 I’m currently learning ...Full Stack Development. 
 - 💞️ I’m looking to collaborate on ...Coding
 - 📫 How to reach me On instagram - its_vijayan_
